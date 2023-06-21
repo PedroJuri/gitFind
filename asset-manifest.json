@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PedroJuri/gitFind/static/css/main.6aadfc04.css",
+    "main.js": "/PedroJuri/gitFind/static/js/main.2be4b906.js",
+    "index.html": "/PedroJuri/gitFind/index.html",
+    "main.6aadfc04.css.map": "/PedroJuri/gitFind/static/css/main.6aadfc04.css.map",
+    "main.2be4b906.js.map": "/PedroJuri/gitFind/static/js/main.2be4b906.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aadfc04.css",
+    "static/js/main.2be4b906.js"
+  ]
+}
